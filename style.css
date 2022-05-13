@@ -78,8 +78,8 @@ header
     background-color: var(--cor-contraste-claro);
     color: white;
     position: absolute;
-    left: 90%;
-    top: 90%;
+    left: 90vh;
+    top: 90vh;
 }
 
 
